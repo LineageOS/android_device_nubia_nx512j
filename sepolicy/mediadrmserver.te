@@ -1,3 +1,2 @@
-#============= mediadrmserver ==============
 allow mediadrmserver firmware_file:dir search;
-allow mediadrmserver firmware_file:file {getattr read open};
+allow mediadrmserver firmware_file:file r_file_perms;
