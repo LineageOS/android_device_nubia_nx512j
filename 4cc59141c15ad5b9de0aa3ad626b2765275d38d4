@@ -68,6 +68,30 @@
       "revId": "4cc59141c15ad5b9de0aa3ad626b2765275d38d4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "196e5032_747f00f8",
+        "filename": "sepolicy/system_app.te",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 15780
+      },
+      "writtenOn": "2017-07-21T18:47:20Z",
+      "side": 1,
+      "message": "that breaks the compass  akmd service",
+      "parentUuid": "6a2b72b5_b77c63b2",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 65
+      },
+      "revId": "4cc59141c15ad5b9de0aa3ad626b2765275d38d4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
