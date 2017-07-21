@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e03904aa_1c351f72",
+        "filename": "sepolicy/init.te",
+        "patchSetId": 8
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-07-21T20:53:30Z",
+      "side": 1,
+      "message": "remove\nhttps://github.com/LineageOS/android_device_nubia_nx512j/blob/cm-14.1/rootdir/etc/init.target.rc#L227 \u003c remove and write proper rules",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 65
+      },
+      "revId": "90ab19ccec2d303cd7af91d9cf62dec3a03a914f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
