@@ -72,6 +72,30 @@
     },
     {
       "key": {
+        "uuid": "2b7575ce_63ccc1e3",
+        "filename": "sepolicy/init.te",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 15780
+      },
+      "writtenOn": "2017-07-21T19:13:24Z",
+      "side": 1,
+      "message": "dropped, doesnt break anything. i was suspecting akmd",
+      "parentUuid": "3514a524_edc74e08",
+      "range": {
+        "startLine": 1,
+        "startChar": 32,
+        "endLine": 1,
+        "endChar": 33
+      },
+      "revId": "4cc59141c15ad5b9de0aa3ad626b2765275d38d4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "37f6f916_d36f7a55",
         "filename": "sepolicy/init.te",
         "patchSetId": 4
