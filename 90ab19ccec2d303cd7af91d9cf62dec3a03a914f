@@ -22,6 +22,75 @@
       "revId": "90ab19ccec2d303cd7af91d9cf62dec3a03a914f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "a13f4856_a280af92",
+        "filename": "sepolicy/logd.te",
+        "patchSetId": 8
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-07-21T20:55:57Z",
+      "side": 1,
+      "message": "not needed after https://review.lineageos.org/#/c/171954/",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 40
+      },
+      "revId": "90ab19ccec2d303cd7af91d9cf62dec3a03a914f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e6e20df5_ec17b599",
+        "filename": "sepolicy/system_server.te",
+        "patchSetId": 8
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-07-21T20:55:57Z",
+      "side": 1,
+      "message": "remove",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 63
+      },
+      "revId": "90ab19ccec2d303cd7af91d9cf62dec3a03a914f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "87e38a8c_49d6e835",
+        "filename": "sepolicy/zygote.te",
+        "patchSetId": 8
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2017-07-21T20:55:57Z",
+      "side": 1,
+      "message": "ditto as logd",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 38
+      },
+      "revId": "90ab19ccec2d303cd7af91d9cf62dec3a03a914f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
