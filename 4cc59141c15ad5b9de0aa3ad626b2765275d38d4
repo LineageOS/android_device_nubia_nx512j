@@ -25,6 +25,29 @@
     },
     {
       "key": {
+        "uuid": "51e431db_5682cc5d",
+        "filename": "sepolicy/init.te",
+        "patchSetId": 4
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 15780
+      },
+      "writtenOn": "2017-07-21T18:58:48Z",
+      "side": 1,
+      "message": "https://github.com/LineageOS/android_system_sepolicy/blob/cm-14.1/global_macros#L21\n\nnot ok ?",
+      "range": {
+        "startLine": 1,
+        "startChar": 32,
+        "endLine": 1,
+        "endChar": 33
+      },
+      "revId": "4cc59141c15ad5b9de0aa3ad626b2765275d38d4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "37f6f916_d36f7a55",
         "filename": "sepolicy/init.te",
         "patchSetId": 4
