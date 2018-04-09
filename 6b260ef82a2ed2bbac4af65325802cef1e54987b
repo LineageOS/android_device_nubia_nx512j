@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6158bf28_43f80b09",
+        "filename": "board/shim.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 11801
+      },
+      "writtenOn": "2018-04-09T12:38:32Z",
+      "side": 1,
+      "message": "you should remove this newline here",
+      "revId": "6b260ef82a2ed2bbac4af65325802cef1e54987b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
