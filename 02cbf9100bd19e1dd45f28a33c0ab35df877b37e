@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d357f5f6_8e49db2f",
+        "filename": "sensors/ProximitySensor.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 270,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2018-04-26T13:27:23Z",
+      "side": 1,
+      "message": "comment doesnt look right anymore",
+      "range": {
+        "startLine": 269,
+        "startChar": 4,
+        "endLine": 270,
+        "endChar": 38
+      },
+      "revId": "02cbf9100bd19e1dd45f28a33c0ab35df877b37e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "32ff4435_fa4662c2",
+        "filename": "sensors/ProximitySensor.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 276,
+      "author": {
+        "id": 13028
+      },
+      "writtenOn": "2018-04-26T13:27:23Z",
+      "side": 1,
+      "message": "a function \"indexToValue\" returning an index? should rename to \"value\"",
+      "range": {
+        "startLine": 276,
+        "startChar": 11,
+        "endLine": 276,
+        "endChar": 16
+      },
+      "revId": "02cbf9100bd19e1dd45f28a33c0ab35df877b37e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
