@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     libjni_proximityCalibrate \
     ProximityCalibrate \
     sensors.msm8916 \
+    libcalmodule_akm \
     libcalmodule_common \
     calmodule.cfg
 
