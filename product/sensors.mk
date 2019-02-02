@@ -4,7 +4,6 @@ PRODUCT_PACKAGES += \
     ProximityCalibrate \
     sensors.msm8916 \
     libcalmodule_akm \
-    libcalmodule_common \
     calmodule.cfg
 
 # Permissions
